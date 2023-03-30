@@ -1,0 +1,7 @@
+setup.py
+halp.egg-info/PKG-INFO
+halp.egg-info/SOURCES.txt
+halp.egg-info/dependency_links.txt
+halp.egg-info/entry_points.txt
+halp.egg-info/requires.txt
+halp.egg-info/top_level.txt
